@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default Colors -->
+    <color name="background">#F5F3DC</color>
+    <color name="text">#454445</color>
+
+    <!-- Action Bar -->
+    <color name="action_bar_background">#2C3E50</color>
+    <color name="action_bar_title_text">#ECF0F1</color>
+
+</resources>
